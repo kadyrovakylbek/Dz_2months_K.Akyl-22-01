@@ -1,0 +1,20 @@
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.con {
+    width: 50px;
+    height: 150px;
+    background-color: black;
+}
+/*
+.red {
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+.green {
+    background-color: green;
+}*/
